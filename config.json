@@ -1,4 +1,7 @@
 {
   "images": ["https://paro-nacional.s3.us-east-2.amazonaws.com/images/56.png"],
-  "hosts": ["www.canalrcn.com"]
+  "hosts": ["www.canalrcn.com"],
+  "messages": [
+    "<h2>Título</h2><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique provident deserunt odio laboriosam quia nobis eveniet eos ut veniam ad dolore rerum numquam eius fugit ducimus, pariatur quas dolorem accusantium. Quam id accusamus repellat qui. Inventore natus voluptatem modi, nemo esse corrupti nesciunt repellendus officiis placeat fugit quas nisi vero laboriosam voluptatibus excepturi ex similique et omnis reiciendis tempore adipisci! Quidem veritatis, nesciunt modi repellat sequi quia quam? Aliquam temporibus maiores reiciendis voluptatibus consequatur nemo dolores nihil iure doloribus? Odit et eum quibusdam autem. Sequi facere doloribus quasi! Cum, hic.</p>"
+  ]
 }
