@@ -1,5 +1,21 @@
 {
-  "images": ["https://paro-nacional.s3.us-east-2.amazonaws.com/images/56.png"],
+  "images": [
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/56.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/57.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/58.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/59.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/60.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/61.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/62.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/63.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/64.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/65.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/66.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/67.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/68.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/69.png",
+    "https://paro-nacional.s3.us-east-2.amazonaws.com/images/70.png"
+  ],
   "hosts": ["www.canalrcn.com"],
   "messages": [
     "<h2>¡Exigimos!</h2><p>El retiro del proyecto de ley de reforma tributaria en tránsito en el Congreso de la República.</p>"
